@@ -1,0 +1,32 @@
+
+.mass{
+margin-top: 120px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+
+.mass img{
+width: 160px;
+
+}
+
+body {
+   position: fixed;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: white;
+
+-webkit-user-select: none;
+	   -moz-user-select: none;
+	    -ms-user-select: none;
+	        user-select: none;
+}
+
+h2{
+text-align: center;
+color: white;
+}
